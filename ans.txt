@@ -1,0 +1,7 @@
+main():
+    msg 21;
+    call func(x);
+    ret 0;
+func(x):
+    ret 0;
+call main();
